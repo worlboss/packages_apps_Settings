@@ -47,6 +47,12 @@
         android:title="@string/disp_anim_settings_title"
         android:fragment="com.android.settings.aicp.DisplayAnimationsSettings" />
 
+    <!-- Floating Windows -->
+    <PreferenceScreen
+        android:id="@+id/floating_windows"
+        android:title="@string/floating_windows"
+        android:fragment="com.android.settings.aicp.FloatingWindows" />
+
     <!-- PIE Controls -->
     <PreferenceScreen
         android:key="pie_settings"
