@@ -154,7 +154,7 @@ public class StatusBar extends SettingsPreferenceFragment implements OnPreferenc
             int intHex = ColorPickerPreference.convertToColorInt(hex);
             Settings.System.putInt(getContentResolver(),
                     Settings.System.STATUS_BAR_AICP_LOGO_COLOR, intHex);
-            return true;  
+            return true;
         }
         return false;
     }
