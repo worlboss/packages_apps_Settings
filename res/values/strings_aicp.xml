@@ -769,6 +769,9 @@
     <string name="navigation_bar_size_40_dp">40 dp</string>
     <string name="navigation_bar_size_42_dp">42 dp</string>
     <string name="navigation_bar_size_0_dp">0 dp (off)</string>
+    <string name="dim_nav_buttons_touch_anywhere_title">Listen for touches on entire screen</string>
+    <string name="dim_nav_buttons_touch_anywhere_summary_on">Touching anywhere on the screen will cause buttons to un-dim</string>
+    <string name="dim_nav_buttons_touch_anywhere_summary_off">Only touches on the navbar will cause buttons to un-dim</string>
 
     <!-- Custom bootanim -->
     <string name="custom_bootanimation_title">Boot animation</string>
